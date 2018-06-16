@@ -1,0 +1,25 @@
+{
+  "name": "coding_telegram_lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "telegraf": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShailenNaidoo/coding_telegram_lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShailenNaidoo/coding_telegram_lessons/issues"
+  },
+  "homepage": "https://github.com/ShailenNaidoo/coding_telegram_lessons#readme"
+}
